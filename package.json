@@ -1,0 +1,43 @@
+{
+  "name": "pave_assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "dev": "Nodemon app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bootstrap": "^5.1.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "fastify-axios": "^1.2.3",
+    "fastify-cli": "^2.13.0",
+    "fastify-formbody": "^5.1.0",
+    "fastify-mysql": "^2.1.0",
+    "fastify-nextjs": "^6.0.0",
+    "fastify-swagger": "^4.9.0",
+    "moment": "^2.29.1",
+    "mysql": "^2.18.1",
+    "mysql-model": "0.0.3",
+    "mysql2": "^2.3.0",
+    "mysql3": "^0.5.14",
+    "next": "^11.1.0",
+    "nextjs": "0.0.3",
+    "react": "^17.0.2",
+    "react-bootstrap": "^2.0.0-beta.6",
+    "react-dom": "^17.0.2",
+    "sequelize": "^6.6.5",
+    "sha1": "^1.1.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "fastify": "^3.20.2",
+    "html-react-parser": "^1.2.8",
+    "nodemon": "^2.0.12"
+  }
+}
